@@ -1,4 +1,4 @@
-﻿# smart-agriculture-analytics
+# smart-agriculture-analytics
 
 
 ---
@@ -13,3 +13,6 @@ concepts, not completed or deployed integrations.
 
 See [Power Platform Documentation](power-platform/README.md).
 
+## Proposed Power Platform extension
+
+A project-specific **concept (not a deployed implementation)**: Crop yield and irrigation performance reporting. [Read the design](power-platform/PROJECT-SPECIFIC-EXTENSION.md).
