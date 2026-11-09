@@ -1,0 +1,9 @@
+﻿FarmID,Region,Crop,AreaHectares,YieldTonnes,WaterUsageLitres
+F001,North,Rice,5,22,150000
+F002,South,Wheat,4,16,85000
+F003,East,Maize,6,28,120000
+F004,West,Rice,3,13,90000
+F005,North,Wheat,7,30,140000
+F006,South,Maize,5,24,110000
+F007,East,Rice,8,35,200000
+F008,West,Wheat,4,17,95000
